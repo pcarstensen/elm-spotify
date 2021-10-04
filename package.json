@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "elm-review": "^2.5.5"
+  },
+  "scripts": {
+    "start": "elm-live src/Main.elm --pushstate -- --output=elm2.js"
+  }
+}
